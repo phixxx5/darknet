@@ -1,6 +1,5 @@
 # Philips Fork with little changes for training custom data
 ### Labeling data
-Try to use the [Yolo_mark Labeling Tool](https://github.com/AlexeyAB/Yolo_mark)
 
 # Yolo-v3 and Yolo-v2 for Windows and Linux
 ### (neural network for object detection) - Tensor Cores can be used on [Linux](https://github.com/AlexeyAB/darknet#how-to-compile-on-linux) and [Windows](https://github.com/AlexeyAB/darknet#how-to-compile-on-windows)
