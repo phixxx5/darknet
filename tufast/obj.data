@@ -1,0 +1,5 @@
+classes = 2
+train = tufast/train.txt
+valid = tufast/test.txt
+names = tufast/obj.names
+backup = backup/
